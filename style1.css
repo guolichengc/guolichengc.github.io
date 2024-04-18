@@ -1,0 +1,17 @@
+<style>
+body {
+    font-family: Arial, sans-serif;
+    background-color:floralwhite;
+}
+h1 {
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; /* 选择一种优美的字体 */
+    font-size: 38px; /* 字体大小为 48 像素 */
+    font-weight: bold; /* 加粗字体 */
+    letter-spacing: 1px; /* 字间距为 1 像素 */
+    line-height: 1.5; /* 行高为 1.5 倍字体大小 */
+    text-align: center; /* 居中对齐 */
+    color:brown; /* 字体颜色 */
+    text-shadow: 2px 2px 4px rgba(180, 130, 95, 0.3); /* 添加文字阴影效果 */
+    margin: 50;
+}
+</style>
